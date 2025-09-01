@@ -7,7 +7,7 @@ It can be easily customized due to its modularity and should fit all the use cas
 ### Option 1 
 - Download latest release from [Releases](https://github.com/dom1torii/cs2config/releases).
 - Unzip the archive into your `/game/csgo/cfg/` folder with replacing all files.
-- Add -exec autoexec into your launch options.
+- Add `-exec autoexec` into your launch options.
 
 ### Option 2 (advanced)
 - Make sure git is installed.
