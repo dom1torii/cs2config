@@ -1,6 +1,6 @@
 # Domi's CS2 Config
 This is my fully personalized "modular" cs2 config.
-It can be easily maintained due to its modularity and should fit all the use cases, but its mainly designed to fit my use case.
+It can be easily customized due to its modularity and should fit all the use cases, but its mainly designed to fit my use case.
 
 ## Install
 
@@ -23,9 +23,11 @@ git reset --hard origin/main
 
 ## Launch options
 I use Linux, so my launch options are probably very different from yours if you use Windows, but here they are:
+
 `gamemoderun mangohud SDL_VIDEO_DRIVER=wayland %command% -vulkan -high -exec autoexec`
 
 If you're on Windows, you probably only want these:
+
 `-high -exec autoexec`
 
 ## Credits
