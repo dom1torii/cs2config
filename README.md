@@ -11,7 +11,7 @@ It can be easily customized due to its modularity and should fit all the use cas
 
 ### Option 2 (advanced)
 - Make sure git is installed.
-- Locate and `cd` into your `/game/csgo/cfg`
+- Locate and `cd` into your `/game/csgo/cfg/`
 - Copy and paste commands below into your terminal 1 by 1:
 ```
 git init
