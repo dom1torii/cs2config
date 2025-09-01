@@ -15,7 +15,7 @@ It can be easily customized due to its modularity and should fit all the use cas
 - Copy and paste commands below into your terminal 1 by 1:
 ```
 git init
-git remote add origin <repo-url>
+git remote add origin https://github.com/dom1torii/cs2config.git
 git fetch origin
 git reset --hard origin/main
 ```
