@@ -1,6 +1,6 @@
 # Domi's CS2 Config
 This is my fully personalized "modular" cs2 config.
-It can be easily customized due to its modularity and should fit all the use cases, but its mainly designed to fit my use case.
+It can be easily customized due to its modularity and should fit all the use cases, but its mainly designed to fit me.
 
 ## Install
 
