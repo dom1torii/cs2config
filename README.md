@@ -4,6 +4,9 @@ It can be easily customized due to its modularity and should fit all the use cas
 
 ## Install
 
+> [!TIP]
+> Before installing the config, you might want to make a backup of your old config.
+
 ### Option 1 
 - Download latest release from [Releases](https://github.com/dom1torii/cs2config/releases).
 - Unzip the archive into your `/game/csgo/cfg/` folder with replacing all files.
@@ -11,7 +14,7 @@ It can be easily customized due to its modularity and should fit all the use cas
 
 ### Option 2 (advanced)
 - Make sure git is installed.
-- Locate and `cd` into your `/game/csgo/cfg/`
+- Locate and `cd` into your `/game/csgo/cfg`
 - Copy and paste commands below into your terminal 1 by 1:
 ```
 git init
@@ -31,5 +34,5 @@ If you're on Windows, you probably only want these:
 `-high -exec autoexec`
 
 ## Credits
-https://steamcommunity.com/id/r_by (desubtick binds)
+https://steamcommunity.com/id/dom1tori 
 
