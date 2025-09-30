@@ -14,7 +14,7 @@ It can be easily customized due to its modularity and should fit all the use cas
 
 ### Option 2 (advanced)
 - Make sure git is installed.
-- Locate and `cd` into your `/game/csgo/cfg`
+- Locate and `cd` into your `/game/csgo/cfg/`
 - Copy and paste commands below into your terminal 1 by 1:
 ```
 git init
@@ -32,6 +32,15 @@ I use Linux, so my launch options are probably very different from yours if you 
 If you're on Windows, you probably only want these:
 
 `-high -exec autoexec`
+
+## Notes
+If you only want desubtick, you need to copy [movement](https://github.com/dom1torii/cs2config/tree/main/movement) folder into your `/game/csgo/cfg/` and add following into your `autoexec.cfg`:
+```
+alias +jump_ "exec movement/+jump"
+alias -jump_ "exec movement/-jump"
+bind mwheeldown "+jump_"
+```
+If your game is crashing, you need to also also add [listenserver.cfg](https://github.com/dom1torii/cs2config/blob/main/listenserver.cfg) into your `/game/csgo/cfg/`.
 
 ## Credits
 https://steamcommunity.com/id/dom1tori 
