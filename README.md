@@ -35,7 +35,8 @@ If you're on Windows, you probably only want these:
 
 ## Crosshair
 My crosshair code: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`
-<img src="">
+<img src="https://github.com/user-attachments/assets/23ff93ec-a8d4-4160-8c59-1a74ba9f7044"/>
+
 
 ## Notes
 If you only want desubtick, you need to copy [movement](https://github.com/dom1torii/cs2config/tree/main/movement) folder into your `/game/csgo/cfg/` and add following into your `autoexec.cfg`:
