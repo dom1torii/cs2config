@@ -22,7 +22,7 @@ git remote add origin https://github.com/dom1torii/cs2config.git
 git fetch origin
 git reset --hard origin/main
 ```
-- Add -exec autoexec into your launch options.
+- Add `-exec autoexec` into your launch options.
 
 ## Launch options
 I use Linux, so my launch options are probably very different from yours if you use Windows, but here they are:
