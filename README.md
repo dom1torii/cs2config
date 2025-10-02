@@ -41,13 +41,16 @@ My crosshair code: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`
 ## Notes
 
 ### Desubtick only
-If you only want desubtick, you need to copy [movement](https://github.com/dom1torii/cs2config/tree/main/movement) folder into your `/game/csgo/cfg/` and add following into your `autoexec.cfg`:
+> [!CAUTION]
+> Desubtick no longer works
+
+~~If you only want desubtick, you need to copy [movement](https://github.com/dom1torii/cs2config/tree/main/movement) folder into your `/game/csgo/cfg/` and add following into your `autoexec.cfg`:~~
 ```bash
 alias +jump_ "exec movement/+jump"
 alias -jump_ "exec movement/-jump"
 bind mwheeldown "+jump_"
 ```
-If your game is crashing, you need to also also add [listenserver.cfg](https://github.com/dom1torii/cs2config/blob/main/listenserver.cfg) into your `/game/csgo/cfg/`.
+~~If your game is crashing, you need to also also add [listenserver.cfg](https://github.com/dom1torii/cs2config/blob/main/listenserver.cfg) into your `/game/csgo/cfg/`.~~
 
 ## Credits
 https://steamcommunity.com/id/dom1tori 
