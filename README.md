@@ -40,6 +40,11 @@ My crosshair code: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`
 
 ## Notes
 
+### Checkpoints + Teleports
+To make [cptp.cfg](https://github.com/dom1torii/cs2config/blob/main/utils/cptp.cfg) work, you will need to make a script that pastes contents of your clipboard into `/cfg/utils/pos.cfg`
+
+[Example script for linux with wl-clipboard](https://gist.github.com/dom1torii/4d5fa8d97bc9d1288c0396b4d91fe44d)
+
 ### Desubtick only
 > [!CAUTION]
 > Desubtick no longer works
