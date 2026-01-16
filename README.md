@@ -34,7 +34,7 @@ If you're on Windows, you probably only want these:
 `-high -exec autoexec`
 
 ## Crosshair
-My crosshair code: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`
+My crosshair code: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`  
 <img src="https://github.com/user-attachments/assets/23ff93ec-a8d4-4160-8c59-1a74ba9f7044"/>
 
 
@@ -44,18 +44,6 @@ My crosshair code: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`
 To make [cptp.cfg](https://github.com/dom1torii/cs2config/blob/main/utils/cptp.cfg) work, you will need to make a script that pastes contents of your clipboard into `/cfg/utils/pos.cfg`
 
 [Example script for linux with wl-clipboard](https://gist.github.com/dom1torii/4d5fa8d97bc9d1288c0396b4d91fe44d)
-
-### Desubtick only
-> [!CAUTION]
-> Desubtick no longer works
-
-~~If you only want desubtick, you need to copy [movement](https://github.com/dom1torii/cs2config/tree/main/movement) folder into your `/game/csgo/cfg/` and add following into your `autoexec.cfg`:~~
-```bash
-alias +jump_ "exec movement/+jump"
-alias -jump_ "exec movement/-jump"
-bind mwheeldown "+jump_"
-```
-~~If your game is crashing, you need to also also add [listenserver.cfg](https://github.com/dom1torii/cs2config/blob/main/listenserver.cfg) into your `/game/csgo/cfg/`.~~
 
 ## Credits
 https://steamcommunity.com/id/dom1tori 
