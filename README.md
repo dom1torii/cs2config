@@ -10,7 +10,6 @@ It can be easily customized due to its modularity and should fit all the use cas
 ### Option 1 
 - Download latest release from [Releases](https://github.com/dom1torii/cs2config/releases).
 - Unzip the archive into your `/game/csgo/cfg/` folder with replacing all files.
-- Add `-exec autoexec` into your launch options.
 
 ### Option 2 (advanced)
 - Make sure git is installed.
@@ -22,16 +21,11 @@ git remote add origin https://github.com/dom1torii/cs2config.git
 git fetch origin
 git reset --hard origin/main
 ```
-- Add `-exec autoexec` into your launch options.
 
 ## Launch options
 I use Linux, so my launch options are probably very different from yours if you use Windows, but here they are:
 
-`gamemoderun mangohud SDL_VIDEO_DRIVER=wayland %command% -vulkan -high -exec autoexec`
-
-If you're on Windows, you probably only want these:
-
-`-high -exec autoexec`
+`gamemoderun mangohud SDL_VIDEO_DRIVER=wayland %command% -high`
 
 ## Crosshair
 My crosshair code: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`  
