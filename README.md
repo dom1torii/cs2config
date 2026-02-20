@@ -25,7 +25,11 @@ git reset --hard origin/main
 ## Launch options
 I use Linux, so my launch options are probably very different from yours if you use Windows, but here they are:
 
-`gamemoderun mangohud SDL_VIDEO_DRIVER=wayland %command% -high`
+`gamemoderun mangohud SDL_VIDEO_DRIVER=wayland %command% -high -disable_workshop_command_filtering`
+
+If you're on windows you probably only want this to be able to exec while on the server:
+
+`-disable_workshop_command_filtering`
 
 ## Crosshair
 My crosshair code: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`  
