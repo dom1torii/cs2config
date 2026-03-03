@@ -2,6 +2,12 @@
 This is my fully personalized "modular" cs2 config.
 It can be easily customized due to its modularity and should fit all the use cases, but its mainly designed to fit me.
 
+## Features
+- Modularity - everything is in its place where it can be easily changed.
+- Made mostly for movement with the most recent binds.
+- Server connect aliases (list_servers to list them all).
+- Easy to install.
+
 ## Install
 
 > [!TIP]
