@@ -1,5 +1,5 @@
 # Domi's CS2 Config
-This is my fully personalized "modular" cs2 config.
+This is my fully personalized "modular" cs2 config.  
 It can be easily customized due to its modularity and should fit all the use cases, but its mainly designed to fit me.
 
 ## Features
@@ -7,6 +7,10 @@ It can be easily customized due to its modularity and should fit all the use cas
 - Made mostly for movement with the most recent binds.
 - Server connect aliases (list_servers to list them all).
 - Easy to install.
+
+## Help
+This config has some useful command-like aliases you might wanna use. All of them start with `*`.  
+To see all these aliases, type `*help` into your CS2 console.
 
 ## Install
 
