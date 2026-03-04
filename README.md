@@ -5,7 +5,7 @@ It can be easily customized due to its modularity and should fit all the use cas
 ## Features
 - Modularity - everything is in its place where it can be easily changed.
 - Made mostly for movement with the most recent binds.
-- Server connect aliases (list_servers to list them all).
+- Server connect aliases (*servers to list them all).
 - Easy to install.
 
 ## Help
