@@ -1,12 +1,31 @@
 # Domi's CS2 Config
-This is my fully personalized "modular" cs2 config.  
-It can be easily customized due to its modularity and should fit all the use cases, but its mainly designed to fit me.
+This is my fully modular opinionated cs2 config.  
+It can be easily customized due to its modularity and should fit most use cases, but mainly designed for myself.
 
-## Features
-- Modularity - everything is in its place where it can be easily changed.
-- Made mostly for movement with the most recent binds.
-- Server connect aliases (*servers to list them all).
-- Easy to install.
+## Why use it?
+- Its preconfigured with little details, so you won't need to spend hours making your own config.
+- I follow CS2 very closely, so it should always be up do date with latest binds
+- Easy to use and modify - everything is explained inside every config file.
+
+## Install
+
+> [!TIP]
+> Before installing the config, you might want to make a backup of your old config in case you want to go back.
+
+### Option 1 
+- Download latest release from [Releases](https://github.com/dom1torii/cs2config/releases).
+- Unzip the archive into your `/game/csgo/cfg/` folder with replacing all files.
+
+### Option 2 (advanced)
+- Make sure git is installed.
+- Locate and `cd` into your `/game/csgo/cfg/`
+- Copy and paste commands below into your terminal 1 by 1:
+```bash
+git init
+git remote add origin https://github.com/dom1torii/cs2config.git
+git fetch origin
+git reset --hard origin/main
+```
 
 ## Help
 This config has some useful command-like aliases you might wanna use. All of them start with `*`.  
@@ -25,34 +44,16 @@ Mode commands:
 =======================================================
 ```
 
-## Install
-
-> [!TIP]
-> Before installing the config, you might want to make a backup of your old config.
-
-### Option 1 
-- Download latest release from [Releases](https://github.com/dom1torii/cs2config/releases).
-- Unzip the archive into your `/game/csgo/cfg/` folder with replacing all files.
-
-### Option 2 (advanced)
-- Make sure git is installed.
-- Locate and `cd` into your `/game/csgo/cfg/`
-- Copy and paste commands below into your terminal 1 by 1:
-```bash
-git init
-git remote add origin https://github.com/dom1torii/cs2config.git
-git fetch origin
-git reset --hard origin/main
-```
-
 ## Launch options
-I use Linux, so my launch options are probably very different from yours if you use Windows, but here they are:
+On linux, i use these launch options:  
+`gamemoderun SDL_VIDEO_DRIVER=wayland %command% -high -disable_workshop_command_filtering`  
+`gamemoderun` - Mostly doesn't do much in CS2, but still nice to have.  
+`SDL_VIDEO_DRIVER=wayland` - Enable wayland (CS2 uses x11 by default).  
+`-high` - Makes CS2 higher priority.  
+`-disable_workshop_command_filtering` - Disables errors for non-whitelisted commands when executed on a server.  
 
-`gamemoderun mangohud SDL_VIDEO_DRIVER=wayland %command% -high -disable_workshop_command_filtering`
-
-If you're on windows you probably only want this to be able to exec while on the server:
-
-`-disable_workshop_command_filtering`
+On windows you probably only want these:  
+`-high -disable_workshop_command_filtering`  
 
 ## Crosshairs
 Default: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`  
@@ -60,8 +61,6 @@ Default: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`
 
 Dot: `CSGO-w8TKi-L2UPG-BckOn-wPNSL-zSqhH`  
 <img width="805" height="190" src="https://github.com/user-attachments/assets/defd192f-fe66-44a2-a136-74e3bcf45221" />
-
-
 
 
 ## Notes
