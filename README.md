@@ -10,7 +10,20 @@ It can be easily customized due to its modularity and should fit all the use cas
 
 ## Help
 This config has some useful command-like aliases you might wanna use. All of them start with `*`.  
-To see all these aliases, type `*help` into your CS2 console.
+Typing `*help` will show all the available commands:
+```
+=======================================================
+<Config help>
+Info commands:
+> *help ---- Config help (you are here).
+> *hello --- Show hello message.
+> *servers - List available server connection aliases.
+Mode commands:
+> *vnlkz - Switch to vanilla kz mode.
+> *ckz --- Switch to classic kz mode.
+> *demo -- Switch to demo viewing mode.
+=======================================================
+```
 
 ## Install
 
