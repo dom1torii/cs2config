@@ -54,9 +54,14 @@ If you're on windows you probably only want this to be able to exec while on the
 
 `-disable_workshop_command_filtering`
 
-## Crosshair
-My crosshair code: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`  
-<img src="https://github.com/user-attachments/assets/23ff93ec-a8d4-4160-8c59-1a74ba9f7044"/>
+## Crosshairs
+Default: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`  
+<img width="805" height="190" src="https://github.com/user-attachments/assets/f1904711-e3f6-4bad-a678-bc8df110979c" />
+
+Dot: `CSGO-w8TKi-L2UPG-BckOn-wPNSL-zSqhH`  
+<img width="805" height="190" src="https://github.com/user-attachments/assets/defd192f-fe66-44a2-a136-74e3bcf45221" />
+
+
 
 
 ## Notes
