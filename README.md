@@ -1,5 +1,5 @@
 # Domi's CS2 Config
-This is my fully modular opinionated cs2 config.  
+This is my fully modular cs2 config.  
 It can be easily customized due to its modularity and should fit most use cases, but mainly designed for myself.
 
 ## Why use it?
