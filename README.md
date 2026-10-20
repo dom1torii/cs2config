@@ -56,19 +56,8 @@ On windows you probably only want these:
 `-high -disable_workshop_command_filtering`  
 
 ## Crosshairs
-Default: `CSGO-sOyFo-sVEif-Ap49Y-MTZ2J-D7kXM`  
-<img width="805" height="190" src="https://github.com/user-attachments/assets/f1904711-e3f6-4bad-a678-bc8df110979c" />
-
-Dot: `CSGO-w8TKi-L2UPG-BckOn-wPNSL-zSqhH`  
-<img width="805" height="190" src="https://github.com/user-attachments/assets/defd192f-fe66-44a2-a136-74e3bcf45221" />
-
-
-## Notes
-
-### Checkpoints + Teleports
-To make [cptp.cfg](https://github.com/dom1torii/cs2config/blob/main/utils/cptp.cfg) work, you will need to make a script that pastes contents of your clipboard into `/cfg/utils/pos.cfg`
-
-[Example script for linux with wl-clipboard](https://gist.github.com/dom1torii/4d5fa8d97bc9d1288c0396b4d91fe44d)
+Default: `CShbdQbcdS6dvczhe8ZkMkm5mVUZ9jOxcoTqaoLfWK6DJf`  
+<img width="811" height="192" alt="image" src="https://github.com/user-attachments/assets/6addb129-8c4d-45ab-9ac3-4eec05469c29" />
 
 ## Credits
 https://steamcommunity.com/id/dom1tori 
