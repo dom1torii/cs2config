@@ -59,6 +59,9 @@ On windows you probably only want these:
 Default: `CShbdQbcdS6dvczhe8ZkMkm5mVUZ9jOxcoTqaoLfWK6DJf`  
 <img width="811" height="192" alt="image" src="https://github.com/user-attachments/assets/6addb129-8c4d-45ab-9ac3-4eec05469c29" />
 
+# Notes
+Prac script for [utils/prac](https://github.com/dom1torii/cs2config/blob/main/utils/prac.cfg) comes separately, [usage in this repo](https://github.com/dom1torii/cs2prac).
+
 ## Credits
 https://steamcommunity.com/id/dom1tori 
 
