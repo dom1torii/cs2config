@@ -4,7 +4,7 @@ It can be easily customized due to its modularity and should fit most use cases,
 
 ## Why use it?
 - Its preconfigured with little details, so you won't need to spend hours making your own config.
-- I follow CS2 very closely, so it should always be up do date with latest binds
+- I follow CS2 very closely, so it should always be up do date with latest binds and settings.
 - Easy to use and modify - everything is explained inside every config file.
 
 ## Install
